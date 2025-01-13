@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning both of the above
 - 💞️ I’m looking to collaborate on learning animation
 - 📫 mail-nilkeshbehera66@gmail.com
-- 😄 Pronouns:nilu
+- 😄 nilu
 
 <!---
 nilkesh28/nilkesh28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
